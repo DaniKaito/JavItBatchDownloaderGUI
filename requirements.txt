@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+customtkinter==5.2.1
+psutil==5.9.6
+requests==2.31.0
